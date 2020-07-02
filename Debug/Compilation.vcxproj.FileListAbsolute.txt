@@ -1,0 +1,2 @@
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Debug\Compilation.exe
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Debug\Compilation.pdb

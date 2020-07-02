@@ -1,0 +1,16 @@
+Students ids:
+313452583
+205610074
+205586910
+
+Students names:
+Liel Yehoshua
+Amit Tsubery
+Lior Dabush 
+
+Operating system:
+Windows 10 - 64Bit
+
+Development enviroment:
+Visual Studio 19
+

@@ -1,0 +1,6 @@
+﻿  win.lex.yy.c
+Compilation\win.lex.yy.c(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\win.lex.yy.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\HashTable.c(21,1): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+Compile.lex(102,6): error C2371: 'main': redefinition; different basic types
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\HashTable.c(205): message : see declaration of 'main'

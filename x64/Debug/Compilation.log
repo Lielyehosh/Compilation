@@ -1,0 +1,12 @@
+﻿  Parser.c
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.h(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(232,37): warning C4133: 'function': incompatible types - from 'symbol_table *' to 'symbol_table *'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(506,35): warning C4133: 'function': incompatible types - from 'symbol_table *' to 'symbol_table *'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(561,35): warning C4047: '==': 'VAR_ATTR *' differs in levels of indirection from 'int'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(562,27): warning C4047: '=': 'VAR_ATTR *' differs in levels of indirection from 'int'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(922,35): warning C4133: 'function': incompatible types - from 'symbol_table *' to 'symbol_table *'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(927,36): warning C4133: 'function': incompatible types - from 'symbol_table *' to 'symbol_table *'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(1405,35): warning C4133: 'function': incompatible types - from 'symbol_table *' to 'symbol_table *'
+C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\Parser.c(1074): warning C4715: 'Parse_TYPE': not all control paths return a value
+  Compilation.vcxproj -> C:\Users\Liel\Desktop\studies\תורת הקומפילציה\Project\Compilation\x64\Debug\Compilation.exe
