@@ -1,4 +1,4 @@
-# Compilation
+# Compilation (2020)
 This project is a task I got in the compilation theory course.
 
 It contains only the frontend phases:
